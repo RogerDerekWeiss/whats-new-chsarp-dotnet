@@ -1,4 +1,4 @@
-# Some Highlights of Whats New in .NET 8 and 7
+# Some Highlights of Whats New in C# and .NET 8 and 7
 
 - [.NET 8 Readme](./dotnet8/core/readme.md)
 - [.NET 7 Readme](./dotnet7/readme.md)
